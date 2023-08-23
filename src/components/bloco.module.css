@@ -1,0 +1,19 @@
+.Bloco{
+    text-align: center;
+    width: 20%;
+    display: block;
+    margin-right: 150px;
+}
+.Bloco figure{
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    
+}
+.Bloco img{
+    width: 100%;
+    object-fit: cover;
+}
+span{
+    color: white;
+}

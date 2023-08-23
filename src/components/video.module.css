@@ -1,0 +1,16 @@
+.video{
+    background-color: #FC55B9;
+    border-radius: 10px;
+    padding: 40px;
+    text-decoration: none;
+    width: 38%;
+    margin-left: 33%;
+    border-radius: 10px;
+    margin-top: 100px;
+   
+}
+.video iframe {
+    height: 400px;
+    margin-top: 5px;
+    
+}
